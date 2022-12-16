@@ -16,7 +16,8 @@
 </head>
 
 <body>
-
+    @foreach ($movies as $movie)
+    @endforeach
 
 </body>
 
